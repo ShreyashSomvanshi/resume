@@ -5,6 +5,10 @@ body {
     margin: auto;
 }
 
+img {
+  border-radius: 50%;
+}
+
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
